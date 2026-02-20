@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Portfolio | Kavindu - I - Dissanayake",
+  title: "Portfolio | Kavindu - Dissanayake",
   description: "Kavindu's Portfolio",
 };
 
